@@ -1,8 +1,11 @@
 ## Hi, I am Rytham
 
 🎓 High school student in India
+
 🤖 Passionate about Artificial Intelligence, Machine Learning and Data Science
+
 💻 Currently learning Python and planning to learn HTML next
+
 🎯 Goals: Learn Machine Learning, contribute to open-source and grow my technical portfolio
 
 
