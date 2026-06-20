@@ -6,7 +6,7 @@
 
 💻 Currently learning Python and planning to learn HTML next
 
-🎯 Goals: Learn Machine Learning, contribute to open-source and grow my technical portfolio
+🎯 Goals: Learn Machine Learning, Data Science, contribute to open-source and grow my technical portfolio
 
 
 ## 🌐 Socials:
